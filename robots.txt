@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ostenato.github.io/sitemap.html.gz
+Sitemap: https://ostenato.github.io/app/sitemap.html.gz
+Sitemap: https://ostenato.github.io/assets/sitemap.html.gz
+Sitemap: https://ostenato.github.io/css/sitemap.html.gz
+Sitemap: https://ostenato.github.io/includes/sitemap.html.gz
+Sitemap: https://ostenato.github.io/item/sitemap.html.gz
+Sitemap: https://ostenato.github.io/src/sitemap.html.gz
